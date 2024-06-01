@@ -22,5 +22,8 @@
   },
   "include": [
     "src"
-  ]
+  ],
+  "node --loader ts-node/esm": {
+    "esm": true
+  }
 }
