@@ -2,8 +2,8 @@
 
 const NavAnnoucement = () => {
     return(
-        <div>
-            This is the Nav announcement Component
+        <div className="nav-announcement-main bg-black-100 text-blue-600 ">
+            Hello
         </div>
     )
 }
